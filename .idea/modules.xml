@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C://pcv/../../PCV/pcv/.idea/pcv.iml" filepath="C://pcv/../../PCV/pcv/.idea/pcv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pcv.iml" filepath="$PROJECT_DIR$/.idea/pcv.iml" />
     </modules>
   </component>
 </project>
